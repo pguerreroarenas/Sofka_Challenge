@@ -37,10 +37,4 @@
 
 # Salirse
 #1. Pulsa en salir
-#2. En la ventana emergente pulsa en si para salir, en no para seguir jugando: -> si sales del juego tus puntos quedaran en 0 
-
-# Jugadores destacados
-#Cuando el juego termina muestra la tabla de los 3 mejores jugadores con sus puntajes y un boton para salir
-
-# Nota:
-#Nota: Para la realización de este proyecto se utilizaron bases de datos con el sistema de gestion de bases de datos SQlite.
+En la ventana emergente pulsa en si para salir, en no para seguir jugando: -> si sales del juego tus puntos quedaran en 0 
