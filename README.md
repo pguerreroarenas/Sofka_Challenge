@@ -10,4 +10,4 @@
 # Ejecutar el programa:  
 *1. Abrir la consola de comandos 
 *2. Ubicarse en la ruta del programa 
-*3. Digitar el siguente comando python .\triviaTest.py
+***3. Digitar el siguente comando python .\triviaTest.py
